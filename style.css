@@ -25,7 +25,7 @@ body {
 
 .logo {
     width: 7vw;
-    border: 1vw solid .630ec4;
+    border: 0.4vw solid #630ec4;
     border-radius: 50%;
     margin: 1.5vw;
     margin-right: 2vw;
