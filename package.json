@@ -1,0 +1,22 @@
+{
+  "name": "cuba-style-promo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buttons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElCholoGamer/CubaStylePromo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElCholoGamer/CubaStylePromo/issues"
+  },
+  "homepage": "https://github.com/ElCholoGamer/CubaStylePromo#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
